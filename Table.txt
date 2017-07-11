@@ -1,0 +1,30 @@
+Free Period Model
+
+	 Day: 1	Phy	Math	Chem	Bio	Sport
+	 Day: 2	Phy	Math	Chem	Bio	Sport
+	 Day: 3	Phy	Math	Chem	Bio	Sport
+	 Day: 4	Phy	Math	Chem	Bio	Sport
+	 Day: 5	Phy	Math	Chem	Bio	Sport
+======================================================
+Time Table
+
+	 Day: 1	Sport	Chem	Math	Bio	Sport
+	 Day: 2	Bio	Phy	Math	Bio	Sport
+	 Day: 3	Sport	Phy	Bio	Math	Math
+	 Day: 4	Comp	Bio	Chem	Bio	Sport
+	 Day: 5	Math	Chem	Chem	Comp	Bio
+
+
+	 Day: 1	Comp	Comp	Math	Bio	Phy
+	 Day: 2	Math	Chem	Chem	Bio	Bio
+	 Day: 3	Sport	Chem	Phy	Bio	Chem
+	 Day: 4	Bio	Phy	Comp	Comp	Sport
+	 Day: 5	Math	Bio	Bio	Phy	Bio
+
+
+	 Day: 1	Comp	Math	Sport	Sport	Comp
+	 Day: 2	Comp	Sport	Comp	Chem	Phy
+	 Day: 3	Phy	Sport	Sport	Math	Comp
+	 Day: 4	Bio	Phy	Comp	Phy	Phy
+	 Day: 5	Comp	Math	Math	Bio	Chem
+
